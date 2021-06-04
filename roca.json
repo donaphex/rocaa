@@ -8,19 +8,19 @@
 	"step7":"All you need to know about your favorite football teams: fixtures, insider news, transfer news and rumours, player profiles and video channels are always on hand in the team section.",
 	"cpa_link":"http://hmnvrfy.com/88a8dae",
 
-	"admob_banner1":"",
+	"admob_banner1":"",	
 	"admob_inter1":"",
-	"admob_banner2":"",
-	"admob_inter2":"",
-	"admob_banner3":"",
-	"admob_inter3":"",
-	"admob_banner4":"",
+	"admob_banner2":"",	
+	"admob_inter2":"c",	
+	"admob_banner3":"",	
+	"admob_inter3":"",	
+	"admob_banner4":"",	
 	"admob_inter4":"",
 
-	"facebook_banner":"209764814299198_209767887632224",
-	"facebook_inter":"209764814299198_210350727573940",
+	"facebook_banner":"",
+	"facebook_inter":"",
 
 	
-	"whichAds":1
+	"whichAds":1,
 	"isLastPageShow":true
 }
